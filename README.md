@@ -1,3 +1,7 @@
+### Deployment on the way
+Currently working on deploying the app using streamlit, will deploy it and update the link here in the documentation.
+
+
 # Delivery-date-and-delay-prediction
 Created two models, a statistical model to predict the delivery date and a machine learning model build on XGBoost classifier to predict the delay in the delivery of a shipment.
 
