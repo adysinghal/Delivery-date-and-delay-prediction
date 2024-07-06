@@ -1,5 +1,5 @@
-# Deployment on the way
-Currently working on deploying the app using streamlit, will deploy it and update the link here in the documentation.
+# Deployed model
+Visit https://delay-prediction.streamlit.app/ to try the model and get an understanding of how it works.
 
 
 ## Delivery-date-and-delay-prediction
